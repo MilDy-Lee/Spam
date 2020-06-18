@@ -16,7 +16,7 @@ echo "
     Spammer Call From TOKOPEDIA
         Author By   : MilDyLee
         Support IG  : hilmifav_
-        Whatsaol    : 083846132765
+        Whatsapp    : 083846132765
         Youtube     : Fepscoverenigen78
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
