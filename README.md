@@ -1,2 +1,0 @@
-# Call
-Spam Call Termux
