@@ -38,20 +38,20 @@ def bersih():
     os.system("clear")
 
 def balik():
-    d = input("\033[1;97mCoba lagi? (y/t): ")
+    d = input("\033[1;97mOne More? (y/t): ")
     if d == "y":
        subprocess.call("python call.py",shell=True)
     elif d == "t":
          print ("\033[1;91mExit")
          os.system("exit")
 bersih()
-subprocess.call("figlet SpamCall |lolcat",shell=True)
+subprocess.call("figlet FVN78 |lolcat",shell=True)
 banner = """
 \033[1;97m
 ==================================================
-Recoder  \033[1;91m:\033[1;96mAyipBontos\033[1;97m
-Website \033[1;91m:\033[1;96mhttps://termux.id\033[1;97m
-Whatsapp  \033[1;91m:\033[1;92m+6282278198xxx\033[1;97m
+Recoder  \033[1;91m:\033[1;96mMilDyLee\033[1;97m
+Instagram \033[1;91m:\033[1;96mhilmifav_\033[1;97m
+Whatsapp  \033[1;91m:\033[1;92m+6283846132765\033[1;97m
 ==================================================
 """
 print (banner)
